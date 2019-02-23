@@ -12,7 +12,7 @@ setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
 }, 280000);
 
-const { Client, RichEmbed, Attachment, Collection } = require("discord.js");
+const { Client, RichEmbed, Attachment,Collection } = require("discord.js");
 const Enmap = require('enmap');
 const edb = new Enmap({
 name: "edb",
