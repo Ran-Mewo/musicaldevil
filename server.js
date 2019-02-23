@@ -386,4 +386,4 @@ function play(guild, song) {
 
 
 
-client.login(process.env.token);
+client.login("NTQ4MzQ5OTAxMTA1Mzk3ODAw.D1ECOA.HMgQi8hv0Vaol6ldGetMRcErb-k");
