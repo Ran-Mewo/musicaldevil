@@ -7,7 +7,7 @@
   "description": "A simple Node app with SQLite as a database management system, instantly up and running.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    
   },
   "dependencies": {
     "axios": "^0.18.0",
